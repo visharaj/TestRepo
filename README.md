@@ -2,6 +2,7 @@ TestRepo
 ========
 
 Repository to check RTC integration
+test -4
 test -3
 test -2
 test -1
